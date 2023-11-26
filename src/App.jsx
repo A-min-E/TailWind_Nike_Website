@@ -17,11 +17,9 @@ const App = () => (
     </section>
     <section className="xl:padding">
       <PopularProducts />
-      PopularProducts
     </section>
     <section className="xl:padding">
       <SuperQuality />
-      SuperQuality
     </section>
     <section className="xl:padding-x py-10">
       <Services />

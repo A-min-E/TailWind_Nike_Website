@@ -15,10 +15,10 @@ const App = () => (
     <section className="xl:padding-l wide:padding-r padding-b">
       <Hero />
     </section>
-    <section className="xl:padding">
+    <section className="xl:padding mx-5">
       <PopularProducts />
     </section>
-    <section className="xl:padding ">
+    <section className="xl:padding mx-5">
       <SuperQuality />
     </section>
     <section className="xl:padding-x py-10">

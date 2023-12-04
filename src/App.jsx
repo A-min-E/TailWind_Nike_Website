@@ -18,28 +18,23 @@ const App = () => (
     <section className="xl:padding">
       <PopularProducts />
     </section>
-    <section className="xl:padding">
+    <section className="xl:padding ">
       <SuperQuality />
     </section>
     <section className="xl:padding-x py-10">
       <Services />
-      Services
     </section>
     <section className="xl:padding">
       <SpecialOffers />
-      SpecialOffers
     </section>
     <section className="bg-pale-blue padding">
       <CustomerReviews />
-      CustomerReviews
     </section>
     <section className="padding-x sm:py-32 py-16 w-full">
       <Subscribe />
-      Subscribe
     </section>
     <section className="bg-black padding-x padding-t pb-8">
       <Footer />
-      Footer
     </section>
   </main>
 );
